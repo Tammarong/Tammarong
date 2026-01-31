@@ -2,11 +2,7 @@
 
 ### Informatics Student | Aspiring Software Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tammarong&label=Profile views&color=0e75b6&style=flat" alt="Tammarong" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tammarong" alt="Tammarong" /></a> </p>
-
-- 🔭 I'm currently working on **KMUTNB**
+- 🔭 I'm currently study at **KMUTNB**
 
 - 👯 I'm looking to collaborate on **AI-powered web applications & social impact tech projects**
 
